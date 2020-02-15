@@ -1,0 +1,14 @@
+.nav {
+    padding: 30px;
+    background-color: aqua;
+    display: flex;
+    justify-content: flex-end;
+    font-size: 1.2em;
+}
+.pointer:hover{
+    cursor: pointer;
+}
+.dim:hover{
+    text-size-adjust: 30px;
+    color: grey;
+}

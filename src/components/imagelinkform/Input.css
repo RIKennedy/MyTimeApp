@@ -1,0 +1,27 @@
+.input{
+    width: 30%;
+    height: 23px;
+
+}
+.button{
+    padding: 5px;
+    margin-left: 10px;
+    margin-bottom: 15px;
+}
+.button:hover{
+    cursor: pointer;
+    background-color: rgb(255, 109, 56);
+    border-color: rgb(255, 109, 56);
+}
+.text{
+    font-size: 1.3em;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.imagelink{
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    padding: 20px;
+    background-color: sandybrown;
+}
