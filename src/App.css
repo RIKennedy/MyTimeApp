@@ -10,3 +10,10 @@
   bottom: 0;
   z-index: -1;
 }
+
+.pad20{
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+
